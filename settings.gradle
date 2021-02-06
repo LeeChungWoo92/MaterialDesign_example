@@ -1,2 +1,3 @@
+include ':material_button'
 include ':material_edittext'
 rootProject.name = "MaterialDesign"
